@@ -7,7 +7,7 @@
 .hero .group {
     width: 100%;
 }
-
+/*标题*/
 .hero .sub {
     text-transform: uppercase;
     font-size: 28px;
@@ -16,7 +16,7 @@
     margin: 0;
     transition: font-size 0.5s;
 }
-
+/*描述*/
 .hero .large {
     font-size: 68px;
     color: var(--black-2);
